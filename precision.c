@@ -2,7 +2,7 @@
 
 /**
  * get_precision - Calculates the precision for printing
- * by Joseph and Ciny
+ * by Bereket Ayele, YOUSEF RAHIMI
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  * @list: list of arguments.
