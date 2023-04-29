@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * by Joseph and Ciny
+ * by Bereket Ayele, YOUSEF RAHIMI
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
@@ -186,4 +186,4 @@ int print_binary(va_list types, char buffer[],
 		}
 	}
 	return (count);
-}
+i}

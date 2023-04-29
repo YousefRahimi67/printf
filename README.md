@@ -1,1 +1,1 @@
-printf readme
+prinf project by Bereket Ayele, YOUSEF RAHIMI
